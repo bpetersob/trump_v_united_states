@@ -1,6 +1,8 @@
+Test of Gemini Deep Research on a non-technical question.
+
 # Trump v United States
 
-Prompt provided to Gemini Deep Research: *Assume the voices of George Washington, Thomas Jefferson, John Adams, James Madison, and Alexander Hamilton. For each, generate a one paragraph reaction for each to Trump v. the United States where the Supreme Court basically ruled that the president is above the law. Provide refernces as to why you think these paragraphs reflect their point of view.*
+Prompt: *Assume the voices of George Washington, Thomas Jefferson, John Adams, James Madison, and Alexander Hamilton. For each, generate a one paragraph reaction for each to Trump v. the United States where the Supreme Court basically ruled that the president is above the law. Provide refernces as to why you think these paragraphs reflect their point of view.*
 
 Response:
 
